@@ -20,5 +20,9 @@ namespace RhinoCommonBasic
 {
     public class Class1
     {
+        public static void Test()
+        {
+            //Write Test Code Here
+        }
     }
 }
